@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Beta Portfolio Strategy
 
 A comprehensive quantitative portfolio strategy that dynamically times factor exposures using machine learning models and macroeconomic signals.
@@ -198,3 +199,6 @@ This is a research and educational project. Past performance does not guarantee 
 ---
 
 For questions or support, please open an issue on GitHub or contact the development team.
+=======
+# smart-beta-ml-pipeline
+>>>>>>> 84a68def9e4e5d0ea43cc47e6703e25ff47077f2
