@@ -163,7 +163,7 @@ Key parameters can be adjusted in `config/config.py`:
 
 Launch the interactive dashboard:
 ```bash
-streamlit run dashboard/app.py
+streamlit run advanced_dashboard.py
 ```
 
 Features:
